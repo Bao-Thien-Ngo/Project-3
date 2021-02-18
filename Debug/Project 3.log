@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Owner\Project\Project 3\main.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Project\Project 3\main.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Project\Project 3\main.cpp(147,22): warning C4018: '<': signed/unsigned mismatch
+  Project 3.vcxproj -> C:\Users\Owner\Project\Project 3\Debug\Project 3.exe
